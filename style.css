@@ -1,0 +1,15 @@
+h1{
+    color: rgb(0, 202, 135);
+    margin: 300px;
+    padding: auto;
+    
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    cursor: grab;
+}
+#q{
+    color: blueviolet;
+    align-items: center;
+}
